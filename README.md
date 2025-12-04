@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mtm6407-static-site-ASHLAY
 
 **Name:** ASHLAY
@@ -13,3 +14,6 @@ To run locally:
 2. npm install vitepress
 3. npx vitepress dev
 
+=======
+
+>>>>>>> a75b6b7f722d045d15a5b509b15e6475f773d435
